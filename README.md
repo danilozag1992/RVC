@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+## Contributor
+* [Danilo Zagarcanin ](https://github.com/danilozag1992)[(Email)](mailto:danilozagarcanin@gmail.com)
